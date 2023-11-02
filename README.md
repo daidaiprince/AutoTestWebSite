@@ -2,9 +2,6 @@
 
 **程式功能 : 檢查網頁元素是否存在，不論成功或失敗都產生HTML格式的報告內容**
 
-![檔案騎士](https://github.com/daidaiprince/image-database/blob/main/FileKnight.png?raw=true "檔案騎士")
-&emsp;
-&emsp;
 &emsp;
 &emsp;
 
