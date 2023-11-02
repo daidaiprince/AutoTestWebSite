@@ -7,6 +7,7 @@
 
 ## 開發環境
 程式語言 : Python 3.8.8
+
 使用套件 : selenium 4.15.0 + xtestrunner 1.7.0
 
 
