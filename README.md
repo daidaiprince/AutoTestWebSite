@@ -31,3 +31,4 @@
 &emsp;
 &emsp;
 
+![成功截圖](ttps://github.com/daidaiprince/image-database/blob/main/SUCESS_ITEM.png?raw=true "成功截圖")
