@@ -40,4 +40,4 @@
 &emsp;
 
 ![失敗結果](https://github.com/daidaiprince/image-database/blob/main/ERROR_ITEM.png?raw=true "失敗結果")
-成功項目可按顯示查看截圖畫面
+失敗項目可按失敗查看失敗結果
