@@ -16,4 +16,6 @@
 
 
 ![報告首頁](https://github.com/daidaiprince/image-database/blob/main/REPORT_HOMEPAGE.png?raw=true "報告首頁")
-展示網站相關測試資訊
+顯示網站相關測試資訊
+
+
