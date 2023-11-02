@@ -32,3 +32,12 @@
 &emsp;
 
 ![成功截圖](https://github.com/daidaiprince/image-database/blob/main/SUCESS_ITEM.png?raw=true "成功截圖")
+成功項目可按顯示查看截圖畫面
+
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+
+![失敗結果](https://github.com/daidaiprince/image-database/blob/main/ERROR_ITEM.png?raw=true "失敗結果")
+成功項目可按顯示查看截圖畫面
