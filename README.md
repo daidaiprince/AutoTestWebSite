@@ -16,7 +16,7 @@
 
 
 ![報告首頁](https://github.com/daidaiprince/image-database/blob/main/REPORT_HOMEPAGE.png?raw=true "報告首頁")
-顯示網站相關測試資訊
+顯示網站所有測試資訊
 
 &emsp;
 &emsp;
@@ -24,3 +24,10 @@
 &emsp;
 
 ![測試結果](https://github.com/daidaiprince/image-database/blob/main/TEST_RESULT.png?raw=true "測試結果")
+列出檢測成功與失敗項目
+
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+
