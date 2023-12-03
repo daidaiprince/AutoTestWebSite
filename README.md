@@ -11,9 +11,9 @@
 學習 selenium 作為取代人工檢閱網站的方式，大致完成了自動化作業，包含測試 / 產出報告，寄送報告郵件。 
 
 ## 開發環境
-程式語言 : Python 3.8.8
+程式語言 : Python
 
-使用套件 : selenium 4.15.0 + xtestrunner 1.7.0
+使用套件 : selenium + xtestrunner
 
 
 
